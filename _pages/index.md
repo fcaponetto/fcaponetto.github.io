@@ -4,6 +4,9 @@ layout: single
 # comments: false
 permalink: /
 author_profile: true
+header:
+  image: "/assets/images/header.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 
