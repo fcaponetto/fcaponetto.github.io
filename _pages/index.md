@@ -1,5 +1,6 @@
 ---
 layout: single
+title: ""
 # tags: [about]
 # comments: false
 permalink: /
